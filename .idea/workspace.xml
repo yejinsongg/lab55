@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d69c35ba-a3c9-4e0d-b005-dfdc2e2a35b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588147536714</updated>
       <workItem from="1588147540871" duration="2948000" />
-      <workItem from="1588722980546" duration="5089000" />
+      <workItem from="1588722980546" duration="5479000" />
     </task>
     <servers />
   </component>
@@ -151,22 +151,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="233" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1588724573210" />
-    <state width="1398" height="334" key="GridCell.Tab.0.bottom" timestamp="1588726555245">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="176" key="GridCell.Tab.0.bottom" timestamp="1588745086658">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="1398" height="334" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588726555245" />
-    <state width="1398" height="334" key="GridCell.Tab.0.center" timestamp="1588726555244">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="176" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1588745086658" />
+    <state width="1398" height="176" key="GridCell.Tab.0.center" timestamp="1588745086657">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="1398" height="334" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588726555244" />
-    <state width="1398" height="334" key="GridCell.Tab.0.left" timestamp="1588726555243">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="176" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1588745086657" />
+    <state width="1398" height="176" key="GridCell.Tab.0.left" timestamp="1588745086657">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="1398" height="334" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588726555243" />
-    <state width="1398" height="334" key="GridCell.Tab.0.right" timestamp="1588726555245">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="176" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1588745086657" />
+    <state width="1398" height="176" key="GridCell.Tab.0.right" timestamp="1588745086658">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="1398" height="334" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588726555245" />
+    <state width="1398" height="176" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1588745086658" />
     <state width="1398" height="257" key="GridCell.Tab.1.bottom" timestamp="1588726451006">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
